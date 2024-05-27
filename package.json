@@ -1,0 +1,21 @@
+{
+  "name": "pokemon-app",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/react": "^3.4.0",
+    "astro": "^4.9.1",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "react-bootstrap": "^2.10.2",
+    "typescript": "^5.4.5"
+  }
+}
